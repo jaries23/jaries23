@@ -1,76 +1,145 @@
-# Hyunjun Jeon
+<div align="center">
 
-### Computer Science Student | Graphics & Vision Enthusiast | Usability-focused Developer
+![header](https://capsule-render.vercel.app/api?type=waving&color=1b286a&height=200&section=header&text=Hyunjun%20Jeon&fontSize=42&desc=Daejeon%20University%20%7C%20Computer%20Science%20Student&descAlignY=70&fontColor=ffffff)
 
-I am interested in building technology that makes digital experiences more intuitive, immersive, and convenient.
+### Computer Science Student · Graphics & Vision Enthusiast · Usability-focused Developer
 
-My long-term goal is to improve how people experience virtual and digital environments by combining visual computing, spatial understanding, and user-centered design.
+*Building software that reduces unnecessary steps and makes digital experiences simpler, more intuitive, and more immersive.*
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_ID/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+
+</div>
+
+-----
 
 ## About Me
 
-I am a student at **Daejeon University**, interested in Computer Graphics, Computer Vision, XR, and practical software development.
+I am a **Computer Science student at Daejeon University**.
 
-I want to become a developer who reduces friction between users and technology.
+I am interested in **Computer Graphics**, **Computer Vision**, **XR**, and **user-centered software development**.
 
-This includes both:
-- improving everyday software workflows by reducing unnecessary steps
-- creating more intuitive and immersive virtual experiences through graphics and vision technologies
+My long-term goal is to improve how people experience digital and virtual environments by making interactions more intuitive, immersive, and accessible.
 
----
+At the same time, I enjoy building practical tools that reduce repetitive steps and improve everyday usability.
+
+> I want to become a developer who reduces friction between users and technology.
+
+-----
 
 ## Research Interests
 
-- Image-Based Modeling & Rendering
-- 3D Scene Reconstruction
-- Neural Radiance Fields
-- 3D Gaussian Splatting
-- Spatial Perception for XR
-- Hand Tracking and Interaction in Virtual Reality
+> Visual computing, spatial understanding, and human-centered interaction.
 
-> I believe the future of virtual reality starts with machines that can truly see and understand space.
+- **Image-Based Modeling & Rendering**
+- **3D Scene Reconstruction**
+- **Neural Radiance Fields**
+- **3D Gaussian Splatting**
+- **Spatial Perception for XR**
+- **Hand Tracking and Interaction in Virtual Reality**
+- **User Experience and Workflow Simplification**
 
----
+I believe the future of virtual reality starts with machines that can truly see and understand space — and I want to be part of building that.
 
-## Capstone Design Project
+-----
+
+## Featured Project
 
 ### Windows Audio Device Switching Convenience Tool
 
-This project focuses on improving the process of switching audio devices in Windows.
+A Windows utility concept designed to simplify audio device switching by reducing repetitive manual setup steps.
 
-The goal is to reduce repetitive manual settings and help users switch to the desired audio device with fewer steps.
-
-While this project is not directly related to computer graphics, it reflects the kind of software I want to build: tools that reduce friction and make user interaction simpler.
+This project focuses on improving user convenience in situations where users frequently switch between audio devices such as headsets, speakers, Bluetooth earphones, and communication devices.
 
 | Feature | Description | Goal |
 |---|---|---|
-| Bluetooth Auto Switching | Automatically applies a reconnected Bluetooth device as the default audio device | Reduce repeated manual setup |
-| Default Communication Device Sync | Syncs the default communication device when the default playback device changes | Reduce confusion in communication apps |
-| Program-specific Device Toggle | Switches between predefined device pairs based on the foreground program | Support context-aware switching |
-| 5-second Undo | Allows quick recovery after an unintended device change | Prevent accidental switching |
+| **Bluetooth Auto Switching** | Automatically applies a reconnected Bluetooth device as the default audio device | Reduce repeated manual setup |
+| **Default Communication Device Sync** | Syncs the default communication device when the default playback device changes | Reduce confusion in communication apps |
+| **Program-specific Device Toggle** | Switches between predefined device pairs based on the foreground program | Support context-aware switching |
+| **5-second Undo** | Allows quick recovery after an unintended device change | Prevent accidental switching |
 
----
+The core idea of this project is not just switching audio devices.
+
+It is about reducing the steps users repeatedly go through and making the overall workflow faster, simpler, and more intuitive.
+
+> The goal is to make users feel:  
+> **“This became simpler than before.”**
+
+-----
+
+## Project Direction
+
+I care about software that solves small but repeated inconveniences.
+
+Whether it is a Windows utility tool or an XR interaction system, I want to build technology that reduces friction and helps users complete tasks more naturally.
+
+My current development direction focuses on:
+
+- Reducing unnecessary user actions
+- Simplifying repeated workflows
+- Designing practical utility software
+- Improving everyday user experience
+- Connecting visual computing with intuitive interaction
+
+-----
 
 ## Academic Journey
 
-I have been building my foundation through programming, software engineering, operating systems, databases, networks, data science, and application development courses.
+I have been building my foundation through programming, software engineering, operating systems, databases, networks, data science, and application development courses at **Daejeon University**.
 
-<img src="./assets/academic-journey.png" alt="Academic Journey" width="900"/>
+<p align="center">
+  <img src="./assets/academic-journey.png" width="100%" alt="Academic Journey Timeline" />
+</p>
 
----
+-----
+
+## Education
+
+**Daejeon University**  
+B.S. in Computer Science  
+`2023 – Present`
+
+Relevant coursework and interests:
+
+- Programming
+- Data Structures
+- Operating Systems
+- Computer Networks
+- Database Systems
+- Software Engineering
+- Computer Graphics
+- Data Science
+- Artificial Intelligence
+- Capstone Design
+
+-----
 
 ## Tech Stack
 
-### Languages
+<div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**Languages**
 
-### Interests
+<img height="32" width="32" src="https://cdn.simpleicons.org/c" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/csharp" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/java" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/python" />
+
+<br/>
+
+**Tools & Platforms**
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/git" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/github" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/windows" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudio" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
+
+<br/>
+
+**Interests**
 
 ![Computer Graphics](https://img.shields.io/badge/Computer_Graphics-111827?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-0F766E?style=flat-square)
@@ -78,7 +147,9 @@ I have been building my foundation through programming, software engineering, op
 ![Windows Utility](https://img.shields.io/badge/Windows_Utility-0078D4?style=flat-square&logo=windows&logoColor=white)
 ![Usability](https://img.shields.io/badge/Usability-14B8A6?style=flat-square)
 
----
+</div>
+
+-----
 
 ## What I Value
 
@@ -88,10 +159,19 @@ I have been building my foundation through programming, software engineering, op
 - Exploring visual computing for immersive virtual experiences
 - Designing systems that understand user context and spatial information
 
----
+-----
 
-## Contact
+## Current Focus
 
-- GitHub: https://github.com/your-github-id
-- LinkedIn: https://linkedin.com/in/your-linkedin-id
-- Email: your-email@example.com
+- Developing my capstone design project
+- Studying Computer Graphics and Computer Vision
+- Learning how to design better user-centered software
+- Building tools that solve small but real inconveniences
+
+-----
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=1b286a&height=160&section=footer)
+
+</div>
